@@ -19,8 +19,4 @@
   - # Others
   - [Good ARTS Links](#!links.md)
 
-[List]()
-
-  - [ARTS-2023-12-13-001](#!posts/001.md)
-  - [ARTS-2023-12-13-000](#!posts/000.md)
-  
+[List](#!posts.md)
